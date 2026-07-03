@@ -10,7 +10,7 @@
 ## <p><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45px> About me</p>
 
 <p align="justify">
-Estudiante de Ingeniería en Software recién egresado con experiencia práctica en el desarrollo de aplicaciones móviles y web. Familiarizado en el ecosistema de JavaScript/TypeScript (React Native, Expo, Node.js) y gestión  de bases de datos. Apasionado por la optimización de sistemas y la creación de soluciones eficientes que impacten positivamente en la administración y logística empresarial. Soy una persona proactiva, organizada y responsable, con buenas relaciones interpersonales, con facilidad de adaptarme al entorno y trabajo en equipo. Siempre tengo la mejor disposición para la realización de mis labores, dispuesto a aprender siempre algo nuevo.
+Estudiante de Ingeniería en Software egresado con experiencia práctica en el desarrollo de aplicaciones móviles y web. Familiarizado en el ecosistema de JavaScript/TypeScript (React Native, Expo, Node.js) y gestión  de bases de datos. Apasionado por la optimización de sistemas y la creación de soluciones eficientes que impacten positivamente en la administración y logística empresarial. Soy una persona proactiva, organizada y responsable, con buenas relaciones interpersonales, con facilidad de adaptarme al entorno y trabajo en equipo. Siempre tengo la mejor disposición para la realización de mis labores, dispuesto a aprender siempre algo nuevo.
 </p>  
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px"> Skills</h2>
